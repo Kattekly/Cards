@@ -1,0 +1,37 @@
+.headerPacks {
+  position: relative;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 40px;
+}
+
+.slider {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 300px;
+}
+
+.value {
+  font-size: 20px;
+}
+
+.reset {
+  cursor: pointer;
+}
+
+.headTitleButton {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 20px;
+  padding: 20px 0;
+}

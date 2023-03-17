@@ -1,0 +1,26 @@
+.btn {
+  cursor: pointer;
+
+  padding: 10px 40px;
+
+  font-size: 16px;
+  color: #000000;
+
+  background-color: #ffffff;
+  border: 1px solid #d9d9d9;
+}
+
+.pressed {
+  color: #ffffff;
+
+  background-color: #366eff;
+  border: none;
+}
+
+.right {
+  border-radius: 0 2px 2px 0;
+}
+
+.left {
+  border-radius: 2px 0 0 2px;
+}

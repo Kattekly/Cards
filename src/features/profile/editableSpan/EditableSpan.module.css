@@ -1,0 +1,41 @@
+.editIcon {
+  cursor: pointer;
+
+  width: 16px;
+  height: 16px;
+
+  background-image: url(../../../assets/icons/edit.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.title {
+  display: flex;
+  column-gap: 5px;
+  align-items: center;
+
+  height: 71px;
+}
+
+.title h3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.save {
+  cursor: pointer;
+
+  padding: 5px 20px;
+
+  color: #ffffff;
+
+  background-color: #366eff;
+  border: none;
+  border-radius: 2px;
+}
+
+.save:disabled {
+  cursor: auto;
+
+  opacity: 0.5;
+}
