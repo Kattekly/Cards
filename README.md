@@ -10,8 +10,8 @@ pictures.
 
 ## Stack:
 - [![React][react.js]][react-url]
-- [![Redux][red]][red-url]
 - [![Redux-router-dom][rrd]][rrd-url]
+- [![Redux][red]][red-url]
 - [![Typescript][typescript]][typescript-url]
 - [![ESLint][eslint]][eslint-url]
 - [![Prettier][prettier]][prettier-url]
